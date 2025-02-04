@@ -12,6 +12,10 @@ Users can enter a destination and request information about different categories
 
 ---
 
+## 🌐 Live Demo  
+[Travel-Mate-Chatbot Website](https://mokeshwaranrajendran.github.io/Travel-Mate-Chatbot/) 
+
+---
 ## 💻 Technologies Used  
 
 - **HTML, CSS, JavaScript** – To create an interactive and responsive chatbot interface.  
