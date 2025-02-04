@@ -26,8 +26,10 @@ Users can enter a destination and request information about different categories
 To run the Travel Planner Chatbot locally, follow these steps:  
 
 1. **Clone the repository:**
-2. Navigate into the project directory
-3. Open the index.html file in a browser to start using the chatbot.
+    https://github.com/MokeshwaranRajendran/Travel-Mate-Chatbot/tree/main
+3. Navigate into the project directory:
+    cd Travel-Mate-Chatbot
+5. Open the index.html file in a browser to start using the chatbot.
 
 ## 🛠 How to Use  
 
