@@ -3,13 +3,11 @@ An interactive web-based chatbot designed to assist users in planning their trip
 
 ## 📝 Description  
 
-The **Travel Planner Chatbot** is a frontend-focused project that allows users to explore travel destinations interactively. The chatbot provides:  
-
+The **Travel Chatbot** is a frontend project that allows users to explore travel destinations interactively. The chatbot provides:  
 - **Places to Visit:** Information on popular tourist spots and attractions.  
 - **Restaurants:** A list of recommended restaurants based on cuisine and price range.  
 - **Famous Foods:** Local delicacies and must-try dishes.  
 - **Hotels:** Hotel recommendations with ratings, price ranges, and descriptions.  
-
 Users can enter a destination and request information about different categories through a user-friendly chat interface.  
 
 ---
@@ -34,7 +32,7 @@ To run the Travel Planner Chatbot locally, follow these steps:
 ## 🛠 How to Use  
 
 1. Open the chatbot in a browser.  
-2. Enter a destination (e.g., "Goa").  
+2. Enter a destination (e.g., "Madurai").  
 3. Select what you want to know:  
    - **Places to visit**  
    - **Restaurants**  
@@ -74,5 +72,5 @@ To run the Travel Planner Chatbot locally, follow these steps:
 
 ## 📌 Notes  
 
-- This chatbot currently functions as a **frontend-only project**. Future implementations will integrate backend support for better functionality.  
+- This chatbot currently functions as a **frontend project**. Future implementations will integrate backend support for better functionality.  
 - The chatbot's **data is stored in a JSON file** for quick retrieval of travel details.  
