@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-16x16.png" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans&family=Kalam&family=Mooli&family=Poppins&family=Roboto:wght@500&family=Satisfy&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <title>Travel Mate</title>
+</head>
+<body>
+  <!-- Website header with logo and title -->
+  <div class="header">
+    <img src="./images/logo.png" alt="Travel Mate Logo" class="logo" />
+    <h1 class="title">Travel Mate</h1>
+  </div>
+  
+  <!-- chat-container -->
+  <div class="chat-container">
+    <button id="new-chat" class="new-chat-button" title="Start a New Chat">&#xf044; New chat</button>
+    <button id="about-us" class="about-us-button" title="Learn About Us">About Us</button>
+    <button id="dark-mode-toggle" class="dark-mode-toggle" title="Toggle Dark Mode"><i class="fa fa-moon-o"></i></button>
+    <div class="chat-box" id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Type your Destinations..." />
+    <button id="send-button" title="Send Message">Send</button>
+    <div id="loading-spinner" class="spinner hidden"></div>
+  </div>
+
+  <!-- Social media handles -->
+  <div class="content-center">
+    <ul>
+      <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
+      <li><a href="https://www.twitter.com/" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
+      <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></li>
+      <li><a href="https://www.instagram.com/mokeshphotography?igsh=YXltcGpkMHcyYjNj " target="_blank" rel="noopener" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram fa-2x"></i></a></li>
+    </ul>
+  </div>
+
+  <!-- About Us Popup -->
+  <div id="about-popup" class="popup">
+    <div class="popup-content">
+      <span class="close" id="close-popup">&times;</span>
+      <h2>About Us</h2>
+      <p>
+        Welcome to the Travel Chatbot! This chatbot helps you explore destinations like Goa,
+        Madurai, and Bangalore by providing information on places, famous foods, and restaurants.
+      </p>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>&copy; Mokesh Photography. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

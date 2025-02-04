@@ -1,0 +1,100 @@
+{
+    "agra": {
+        "places": [
+            { "name": "Taj Mahal", "description": "A UNESCO World Heritage Site and one of the Seven Wonders of the World." },
+            { "name": "Agra Fort", "description": "A historical fort known for its impressive architecture." }
+        ],
+        "famousFoods": [
+            { "name": "Petha", "description": "A sweet made from ash gourd." },
+            { "name": "Bedai and Jalebi", "description": "A popular breakfast combination in Agra." }
+        ],
+        "restaurants": [
+            { "name": "Pinch of Spice", "cuisine": "North Indian", "description": "A well-known restaurant serving delicious North Indian cuisine.", "priceRange": "500 INR" }
+        ],
+        "hotels": [
+            { "name": "ITC Mughal", "rating": 5, "priceRange": "9000 INR", "description": "A luxury hotel with Mughal-inspired architecture." }
+        ]
+    },
+    "jaipur": {
+        "places": [
+            { "name": "Hawa Mahal", "description": "A beautiful palace with intricate lattice windows." },
+            { "name": "Amber Fort", "description": "A magnificent fort known for its artistic style." }
+        ],
+        "famousFoods": [
+            { "name": "Dal Baati Churma", "description": "A traditional Rajasthani delicacy." },
+            { "name": "Ghevar", "description": "A sweet dish often enjoyed during festivals." }
+        ],
+        "restaurants": [
+            { "name": "Chokhi Dhani", "cuisine": "Rajasthani", "description": "An ethnic village-themed restaurant.", "priceRange": "500 INR" }
+        ],
+        "hotels": [
+            { "name": "Rambagh Palace", "rating": 5, "priceRange": "10000 INR", "description": "A luxurious heritage hotel." }
+        ]
+    },
+    "mumbai": {
+        "places": [
+            { "name": "Gateway of India", "description": "A historic monument and a popular tourist destination." },
+            { "name": "Marine Drive", "description": "A scenic promenade along the Arabian Sea." }
+        ],
+        "famousFoods": [
+            { "name": "Vada Pav", "description": "A popular street food known as Mumbai's burger." },
+            { "name": "Pav Bhaji", "description": "A spiced vegetable mash served with buttered bread." }
+        ],
+        "restaurants": [
+            { "name": "Leopold Cafe", "cuisine": "Multi-cuisine", "description": "An iconic cafe known for its historic charm.", "priceRange": "250 INR" }
+        ],
+        "hotels": [
+            { "name": "The Taj Mahal Palace", "rating": 5, "priceRange": "8040 INR", "description": "A luxurious heritage hotel with stunning views." }
+        ]
+    },
+    "goa": {
+        "places": [
+            { "name": "Baga Beach", "description": "A popular beach known for its nightlife." },
+            { "name": "Fort Aguada", "description": "A well-preserved 17th-century Portuguese fort." }
+        ],
+        "famousFoods": [
+            { "name": "Fish Curry", "description": "A spicy and tangy curry made with fresh fish." },
+            { "name": "Prawn Balchão", "description": "A spicy prawn pickle that is a Goan specialty." }
+        ],
+        "restaurants": [
+            { "name": "Gunpowder", "cuisine": "Indian", "description": "A rustic restaurant serving traditional Indian dishes.", "priceRange": "300 INR" }
+        ],
+        "hotels": [
+            { "name": "Taj Exotica", "rating": 5, "priceRange": "7500 INR", "description": "A luxury resort with stunning views." }
+        ]
+    },
+
+    "chennai": {
+    "places": [
+        { "name": "Marina Beach", "description": "One of the longest urban beaches in the world." },
+        { "name": "Kapaleeshwarar Temple", "description": "A historic temple dedicated to Lord Shiva." }
+    ],
+    "famousFoods": [
+        { "name": "Filter Coffee", "description": "A strong aromatic coffee served in steel tumblers." },
+        { "name": "Masala Dosa", "description": "A crispy rice crepe filled with spiced potato." }
+    ],
+    "restaurants": [
+        { "name": "Saravana Bhavan", "cuisine": "South Indian", "description": "A famous chain known for authentic dishes.", "priceRange": "200 INR" }
+    ],
+    "hotels": [
+        { "name": "ITC Grand Chola", "rating": 5, "priceRange": "2500 INR", "description": "A luxurious hotel with grand architecture." }
+    ]
+      },
+      
+    "madurai": {
+        "places": [
+            { "name": "Meenakshi Temple", "description": "A historic Hindu temple dedicated to Meenakshi and Sundareswarar." },
+            { "name": "Thirumalai Nayakkar Mahal", "description": "A 17th-century palace showcasing Dravidian and Islamic styles." }
+        ],
+        "famousFoods": [
+            { "name": "Jigarthanda", "description": "A cold, sweet drink unique to Madurai." },
+            { "name": "Kari Dosa", "description": "A thick dosa topped with spicy minced meat." }
+        ],
+        "restaurants": [
+            { "name": "Murugan Idli Shop", "cuisine": "South Indian", "description": "Famous for delicious idlis and traditional dishes.", "priceRange": "100 INR" }
+        ],
+        "hotels": [
+            { "name": "Heritage Madurai", "rating": 5, "priceRange": "2500 INR", "description": "A luxury hotel set amidst lush greenery." }
+        ]
+    }
+}
